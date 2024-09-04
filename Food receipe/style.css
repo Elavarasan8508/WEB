@@ -1,0 +1,183 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.header{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    text-shadow: 0 0 50px gold,
+    0 0 80px gold , 0 0 90px gold;
+    position: sticky;
+    top: 0px;
+}
+.title:hover{
+    color: pink;
+    transition: 10px;
+
+   
+}
+h1{
+    margin-left: 46%;
+    display: inline;
+  
+}
+ol{
+    margin-left: 44%;
+
+}
+li{
+    display: inline;
+  margin: 4px;
+  color: grey;
+
+   
+}
+li:hover{
+    color: white;
+    cursor:pointer;
+    
+}
+.box1{
+    border-width: 2px;
+    border-color: black;
+    border-radius: 2px;
+    border-style:hidden;
+    width: 220px;
+    display: inline-block;
+    margin-left: 200px;
+}
+.box1:hover{
+    color: white;
+    background-color: black;
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+.box2{
+    border-width: 2px;
+    border-color: black;
+    border-radius: 2px;
+    border-style: hidden;
+    width: 220px;
+    display: inline-block;
+    margin-left: 200px;
+
+}
+.box2:hover{
+    color: white;
+    background-color: black;
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+.box3{
+    border-width: 2px;
+    border-color: black;
+    border-radius: 2px;
+    border-style: hidden;
+    width: 220px;
+    display: inline-block;
+    margin-left: 200px;
+}
+.box3:hover{
+    color: white;
+    background-color: black;
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+.content{
+    margin-top: 20px;
+    
+}
+.box4{
+  
+    border-width: 2px;
+    border-color: black;
+    border-radius: 2px;
+    border-style: hidden;
+    width: 220px;
+    display: inline-block;
+    margin-left: 200px;
+}
+
+.box4:hover{
+    color: white;
+    background-color: black;
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+.box5{
+    border-width: 2px;
+    border-color: black;
+    border-radius: 2px;
+    border-style: hidden;
+    width: 220px;
+    display: inline-block;
+    margin-left: 200px;
+
+}
+.box5:hover{
+    color: white;
+    background-color: black;
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+.box6{
+    border-width: 2px;
+    border-color: black;
+    border-radius: 2px;
+    border-style: hidden;
+    width: 220px;
+    display: inline-block;
+    margin-left: 200px;
+}
+.box6:hover{
+    color: white;
+    background-color: black;
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+.content2{
+    
+    margin-top: 20px;
+}
+strong{
+    padding-left: 40px;   
+}
+button{
+    margin-left: 70px;
+    color: white;
+    background-color: black;
+}
+button:hover{
+    cursor: pointer;
+}
+.table{
+   margin-left: 42%;
+}
+.last{
+    color: black;
+    background-color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-left: 40%;
+    box-shadow: 0 0 20px skyblue,
+    0 0 50px skyblue;
+    border-radius: 15px;
+
+
+}
+.contact{
+    background-color: black;
+    color: white;
+}
+center{
+    margin-top: 20px;
+}
+a{
+    color: white;
+}
